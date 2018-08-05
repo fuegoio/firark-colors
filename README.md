@@ -1,0 +1,2 @@
+# firark-colors
+Firark colorscheme

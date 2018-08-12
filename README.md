@@ -7,5 +7,7 @@ Inspired by the [Nord theme](https://github.com/arcticicestudio/nord), this colo
 The colors are available for :
 
 * [Vim](https://github.com/alxkt/firark-vim)
+* [Jetbrains](https://github.com/alxkt/firark-jetbrains)
+* [GTK Theme](https://github.com/alxkt/firark-gtk)
 
 ![colors](assets/colors.png)
